@@ -46,6 +46,7 @@ h2{
 td{
     border: 2px solid;
     background-color: aqua;
+    color: red;
 }
 .boton{
     background-color: aqua;
